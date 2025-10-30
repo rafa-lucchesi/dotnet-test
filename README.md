@@ -23,6 +23,8 @@ dotnet run
 
 The API will be available at `http://localhost:5000`
 
+For endpoint info, access `http://localhost:5000/swagger` or `http://localhost:5000/index.html`
+
 ## Default Credentials
 
 - Username: `admin`
